@@ -1,1 +1,2 @@
 Estoy haciendo el segundo laboratorio de POO.
+Hola como estas
